@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"Player is AFK"
+	{
+		"ru"			"Игрок - AFK"
+	}
+
+	"Hide stats info panel on the right"
+	{
+		"ru"			"Скрыть информационную панель"
+	}
+
+	"Last Experience Short"
+	{
+		"ru"			"Последний опыт"
+	}
+
+	"Estimated time until levelup"
+	{
+		"ru"			"Уровень через"
+	}
+}
