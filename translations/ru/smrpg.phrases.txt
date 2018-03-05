@@ -95,7 +95,7 @@
 	"Credits"
 	{
 		// 1: Amount of credits the player has.
-		"ru"			"кредиты: {1}"
+		"ru"			"Кредиты: {1}"
 	}
 	
 	"Rank"
@@ -313,12 +313,12 @@
 	
 	"Show menu on levelup"
 	{
-		"ru"			"Показать RPG меню пры Levelup"
+		"ru"			"Показать RPG меню при Levelup"
 	}
 	
 	"Fade screen on levelup"
 	{
-		"ru"			"Вспышка на экране пры Levelup"
+		"ru"			"Вспышка на экране при Levelup"
 	}
 	
 	"Auto refresh panel"
@@ -455,7 +455,7 @@
 	"Inform player reset"
 	{
 		// 1: Name of the player who's stats got reset.
-		"ru"			"{1} была полностю сброшена."
+		"ru"			"{1} была полностью сброшена."
 	}
 	
 	"Change credits"
@@ -558,7 +558,7 @@
 	
 	"Remove player upgrade level"
 	{
-		"ru"			"отнять уровень"
+		"ru"			"Отнять уровень"
 	}
 	
 	"Add player upgrade level"
@@ -573,7 +573,7 @@
 	
 	"Take player upgrade level full refund"
 	{
-		"ru"			"отнять уровень [без продажи]"
+		"ru"			"Отнять уровень [без продажи]"
 	}
 	
 	"Force player sell upgrade level"
@@ -583,7 +583,7 @@
 	
 	"Take player upgrade level no refund"
 	{
-		"ru"			"отнять уровень"
+		"ru"			"Отнять уровень"
 	}
 	
 	"Give player upgrade level for free"
