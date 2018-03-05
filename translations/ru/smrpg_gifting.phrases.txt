@@ -1,0 +1,51 @@
+"Phrases"
+{
+	"Don't give yourself a gift"
+	{
+		"ru"			"Нет смысла давать себе подарок.."
+	}
+	"Need at least 1 credit"
+	{
+		"ru"			"Вам нужно дать хотя бы 1 кредит!"
+	}
+	"You don't have enough credits"
+	{
+		"ru"			"У вас недостаточно кредитов."
+	}
+	"You have to be min level"
+	{
+		// 1: Minimum level from which you are allowed to gift credits to someone.
+		"ru"			"Вы должны быть как минимум {N}уровня {1}{G}, чтобы подарить кредиты кому-то.."
+	}
+	"Failed to give credits"
+	{
+		// 1: The amount of credits the player tried to give as a gift.
+		// 2: The name of the receiver.
+		"ru"			"Не удалось дать {1} кредиты {2}."
+	}
+	"Fatal Error giving credits. Credits lost."
+	{
+		// 1: The amount of credits the player tried to give as a gift.
+		// 2: The name of the receiver.
+		"ru"			"Не удалось передать {1} кредиты {2}, и я не могу вернуть вам ваши кредиты. Свяжитесь с администратором!"
+	}
+	"Gave credits as a gift"
+	{
+		// 1: The name of the generous player giving some credits.
+		// 2: The amount of credits the player gave as a gift.
+		// 3: The name of the receiver.
+		"ru"			"{1} дал {2} кредиты {3} в качестве подарка!"
+	}
+	"rpggift short desc"
+	{
+		"ru"			"Дать свои кредиты другому игроку."
+	}
+	"rpggift desc"
+	{
+		"ru"			"Дать свои кредиты другому игроку. Использование: {N}rpggift <#userid|authid|ник> <кредиты>"
+	}
+	"rpggift advert"
+	{
+		"ru"			"Введите {N}rpggift{G}, чтобы дать кредиты другим игрокам в {N}подарок{G}!"
+	}
+}
